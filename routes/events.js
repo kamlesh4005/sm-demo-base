@@ -46,4 +46,10 @@ router.get('/getOddsList', async (req, res) => {
     res.json(oddsList);
 });
 
+router.get('/getMarket', async (req, res) => {
+    const matchId = req.query.match_id;
+    const market = await eventsController.getMarket(matchId);
+    res.json(market);
+});
+
 module.exports = router;
