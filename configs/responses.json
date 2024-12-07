@@ -1,0 +1,1145 @@
+{
+  "getGames": [
+    {
+      "eventType": {
+        "id": "1",
+        "name": "Soccer"
+      },
+      "marketCount": 15527
+    },
+    {
+      "eventType": {
+        "id": "2",
+        "name": "Tennis"
+      },
+      "marketCount": 9466
+    },
+    {
+      "eventType": {
+        "id": "7522",
+        "name": "Basketball"
+      },
+      "marketCount": 137
+    },
+    {
+      "eventType": {
+        "id": "3",
+        "name": "Golf"
+      },
+      "marketCount": 78
+    },
+    {
+      "eventType": {
+        "id": "4",
+        "name": "Cricket"
+      },
+      "marketCount": 151
+    },
+    {
+      "eventType": {
+        "id": "7524",
+        "name": "Ice Hockey"
+      },
+      "marketCount": 225
+    },
+    {
+      "eventType": {
+        "id": "5",
+        "name": "Rugby Union"
+      },
+      "marketCount": 37
+    },
+    {
+      "eventType": {
+        "id": "1477",
+        "name": "Rugby League"
+      },
+      "marketCount": 28
+    },
+    {
+      "eventType": {
+        "id": "6",
+        "name": "Boxing"
+      },
+      "marketCount": 56
+    },
+    {
+      "eventType": {
+        "id": "7",
+        "name": "Horse Racing"
+      },
+      "marketCount": 470
+    },
+    {
+      "eventType": {
+        "id": "8",
+        "name": "Motor Sport"
+      },
+      "marketCount": 13
+    },
+    {
+      "eventType": {
+        "id": "27454571",
+        "name": "Esports"
+      },
+      "marketCount": 72
+    },
+    {
+      "eventType": {
+        "id": "10",
+        "name": "Special Bets"
+      },
+      "marketCount": 4
+    },
+    {
+      "eventType": {
+        "id": "11",
+        "name": "Cycling"
+      },
+      "marketCount": 9
+    },
+    {
+      "eventType": {
+        "id": "61420",
+        "name": "Australian Rules"
+      },
+      "marketCount": 34
+    },
+    {
+      "eventType": {
+        "id": "3503",
+        "name": "Darts"
+      },
+      "marketCount": 1
+    },
+    {
+      "eventType": {
+        "id": "2152880",
+        "name": "Gaelic Games"
+      },
+      "marketCount": 2
+    },
+    {
+      "eventType": {
+        "id": "26420387",
+        "name": "Mixed Martial Arts"
+      },
+      "marketCount": 20
+    },
+    {
+      "eventType": {
+        "id": "4339",
+        "name": "Greyhound Racing"
+      },
+      "marketCount": 445
+    },
+    {
+      "eventType": {
+        "id": "2378961",
+        "name": "Politics"
+      },
+      "marketCount": 75
+    },
+    {
+      "eventType": {
+        "id": "6422",
+        "name": "Snooker"
+      },
+      "marketCount": 15
+    },
+    {
+      "eventType": {
+        "id": "7511",
+        "name": "Baseball"
+      },
+      "marketCount": 46
+    },
+    {
+      "eventType": {
+        "id": "6423",
+        "name": "American Football"
+      },
+      "marketCount": 78
+    }
+  ],
+  "getSeries": [
+    {
+      "competition": {
+        "id": "11365612",
+        "name": "Test Matches"
+      },
+      "marketCount": 10,
+      "competitionRegion": "International"
+    },
+    {
+      "competition": {
+        "id": "11893330",
+        "name": "T20 Blast"
+      },
+      "marketCount": 21,
+      "competitionRegion": "GBR"
+    },
+    {
+      "competition": {
+        "id": "12598889",
+        "name": "ICC Men's T20 WC Europe Qualifier"
+      },
+      "marketCount": 12,
+      "competitionRegion": "International"
+    },
+    {
+      "competition": {
+        "id": "101480",
+        "name": "Indian Premier League"
+      },
+      "marketCount": 1,
+      "competitionRegion": "IND"
+    },
+    {
+      "competition": {
+        "id": "12294864",
+        "name": "Rachael Heyhoe Flint Trophy"
+      },
+      "marketCount": 8,
+      "competitionRegion": "GBR"
+    },
+    {
+      "competition": {
+        "id": "11679292",
+        "name": "County Championship"
+      },
+      "marketCount": 4,
+      "competitionRegion": "International"
+    },
+    {
+      "competition": {
+        "id": "12571214",
+        "name": "County Championship Division 2"
+      },
+      "marketCount": 16,
+      "competitionRegion": "GBR"
+    },
+    {
+      "competition": {
+        "id": "12571212",
+        "name": "County Championship Division 1"
+      },
+      "marketCount": 16,
+      "competitionRegion": "GBR"
+    },
+    {
+      "competition": {
+        "id": "12681272",
+        "name": "Max60"
+      },
+      "marketCount": 4,
+      "competitionRegion": "GBR"
+    },
+    {
+      "competition": {
+        "id": "11271794",
+        "name": "ICC Champions Trophy"
+      },
+      "marketCount": 1,
+      "competitionRegion": "International"
+    },
+    {
+      "competition": {
+        "id": "9992899",
+        "name": "International Twenty20 Matches"
+      },
+      "marketCount": 42,
+      "competitionRegion": "International"
+    },
+    {
+      "competition": {
+        "id": "12517571",
+        "name": "Women's Caribbean Premier League"
+      },
+      "marketCount": 15,
+      "competitionRegion": "GBR"
+    },
+    {
+      "competition": {
+        "id": "12678911",
+        "name": "The Ashes 2025/26"
+      },
+      "marketCount": 1,
+      "competitionRegion": "AUS"
+    }
+  ],
+  "getMatches": [
+    {
+      "marketId": "1.232220323",
+      "marketName": "Match Odds",
+      "marketStartTime": "2024-08-25T14:00:00.000Z",
+      "totalMatched": 39859.23,
+      "runners": [
+        {
+          "selectionId": 228749,
+          "runnerName": "Netherlands",
+          "handicap": 0,
+          "sortPriority": 1,
+          "metadata": {
+            "runnerId": "228749"
+          }
+        },
+        {
+          "selectionId": 891555,
+          "runnerName": "USA",
+          "handicap": 0,
+          "sortPriority": 2,
+          "metadata": {
+            "runnerId": "891555"
+          }
+        }
+      ],
+      "eventType": {
+        "id": "4",
+        "name": "Cricket"
+      },
+      "competition": {
+        "id": "9992899",
+        "name": "International Twenty20 Matches"
+      },
+      "event": {
+        "id": "33523191",
+        "name": "Netherlands v USA",
+        "countryCode": "GB",
+        "timezone": "GMT",
+        "openDate": "2024-08-25T14:00:00.000Z"
+      }
+    },
+    {
+      "marketId": "1.232209555",
+      "marketName": "Match Odds",
+      "marketStartTime": "2024-08-25T19:00:00.000Z",
+      "totalMatched": 4764.64,
+      "runners": [
+        {
+          "selectionId": 235,
+          "runnerName": "West Indies",
+          "handicap": 0,
+          "sortPriority": 1,
+          "metadata": {
+            "runnerId": "235"
+          }
+        },
+        {
+          "selectionId": 349,
+          "runnerName": "South Africa",
+          "handicap": 0,
+          "sortPriority": 2,
+          "metadata": {
+            "runnerId": "349"
+          }
+        }
+      ],
+      "eventType": {
+        "id": "4",
+        "name": "Cricket"
+      },
+      "competition": {
+        "id": "9992899",
+        "name": "International Twenty20 Matches"
+      },
+      "event": {
+        "id": "33522302",
+        "name": "West Indies v South Africa",
+        "countryCode": "GB",
+        "timezone": "GMT",
+        "openDate": "2024-08-25T19:00:00.000Z"
+      }
+    },
+    {
+      "marketId": "1.232251555",
+      "marketName": "Match Odds",
+      "marketStartTime": "2024-08-26T02:30:00.000Z",
+      "totalMatched": 1240.28,
+      "runners": [
+        {
+          "selectionId": 247649,
+          "runnerName": "Hong Kong",
+          "handicap": 0,
+          "sortPriority": 1,
+          "metadata": {
+            "runnerId": "247649"
+          }
+        },
+        {
+          "selectionId": 2857968,
+          "runnerName": "Malaysia",
+          "handicap": 0,
+          "sortPriority": 2,
+          "metadata": {
+            "runnerId": "2857968"
+          }
+        }
+      ],
+      "eventType": {
+        "id": "4",
+        "name": "Cricket"
+      },
+      "competition": {
+        "id": "9992899",
+        "name": "International Twenty20 Matches"
+      },
+      "event": {
+        "id": "33525294",
+        "name": "Hong Kong v Malaysia",
+        "countryCode": "GB",
+        "timezone": "GMT",
+        "openDate": "2024-08-26T02:30:00.000Z"
+      }
+    },
+    {
+      "marketId": "1.232258042",
+      "marketName": "Match Odds",
+      "marketStartTime": "2024-08-26T12:00:00.000Z",
+      "totalMatched": 0,
+      "runners": [
+        {
+          "selectionId": 144197,
+          "runnerName": "Canada",
+          "handicap": 0,
+          "sortPriority": 1,
+          "metadata": {
+            "runnerId": "144197"
+          }
+        },
+        {
+          "selectionId": 228749,
+          "runnerName": "Netherlands",
+          "handicap": 0,
+          "sortPriority": 2,
+          "metadata": {
+            "runnerId": "228749"
+          }
+        }
+      ],
+      "eventType": {
+        "id": "4",
+        "name": "Cricket"
+      },
+      "competition": {
+        "id": "9992899",
+        "name": "International Twenty20 Matches"
+      },
+      "event": {
+        "id": "33525516",
+        "name": "Canada v Netherlands",
+        "countryCode": "GB",
+        "timezone": "GMT",
+        "openDate": "2024-08-26T12:00:00.000Z"
+      }
+    }
+  ],
+  "getMarket": [
+    {
+      "marketId": "1.232220327",
+      "marketName": "Completed Match",
+      "marketStartTime": "2024-08-25T14:00:00.000Z",
+      "totalMatched": 1657.52,
+      "runners": [
+        {
+          "selectionId": 37302,
+          "runnerName": "Yes",
+          "handicap": 0,
+          "sortPriority": 1,
+          "metadata": {
+            "runnerId": "37302"
+          }
+        },
+        {
+          "selectionId": 37303,
+          "runnerName": "No",
+          "handicap": 0,
+          "sortPriority": 2,
+          "metadata": {
+            "runnerId": "37303"
+          }
+        }
+      ],
+      "eventType": {
+        "id": "4",
+        "name": "Cricket"
+      },
+      "competition": {
+        "id": "9992899",
+        "name": "International Twenty20 Matches"
+      },
+      "event": {
+        "id": "33523191",
+        "name": "Netherlands v USA",
+        "countryCode": "GB",
+        "timezone": "GMT",
+        "openDate": "2024-08-25T14:00:00.000Z"
+      }
+    },
+    {
+      "marketId": "1.232220326",
+      "marketName": "1st Innings 20 Overs Line",
+      "marketStartTime": "2024-08-25T14:00:00.000Z",
+      "totalMatched": 1.5,
+      "runners": [
+        {
+          "selectionId": 15316,
+          "runnerName": "Total Runs",
+          "handicap": 0,
+          "sortPriority": 1,
+          "metadata": {
+            "runnerId": "15316"
+          }
+        }
+      ],
+      "eventType": {
+        "id": "4",
+        "name": "Cricket"
+      },
+      "competition": {
+        "id": "9992899",
+        "name": "International Twenty20 Matches"
+      },
+      "event": {
+        "id": "33523191",
+        "name": "Netherlands v USA",
+        "countryCode": "GB",
+        "timezone": "GMT",
+        "openDate": "2024-08-25T14:00:00.000Z"
+      }
+    },
+    {
+      "marketId": "1.232220325",
+      "marketName": "1st Innings 6 Overs Line",
+      "marketStartTime": "2024-08-25T14:00:00.000Z",
+      "totalMatched": 0,
+      "runners": [
+        {
+          "selectionId": 15316,
+          "runnerName": "Total Runs",
+          "handicap": 0,
+          "sortPriority": 1,
+          "metadata": {
+            "runnerId": "15316"
+          }
+        }
+      ],
+      "eventType": {
+        "id": "4",
+        "name": "Cricket"
+      },
+      "competition": {
+        "id": "9992899",
+        "name": "International Twenty20 Matches"
+      },
+      "event": {
+        "id": "33523191",
+        "name": "Netherlands v USA",
+        "countryCode": "GB",
+        "timezone": "GMT",
+        "openDate": "2024-08-25T14:00:00.000Z"
+      }
+    },
+    {
+      "marketId": "1.232220324",
+      "marketName": "Tied Match",
+      "marketStartTime": "2024-08-25T14:00:00.000Z",
+      "totalMatched": 32,
+      "runners": [
+        {
+          "selectionId": 37302,
+          "runnerName": "Yes",
+          "handicap": 0,
+          "sortPriority": 1,
+          "metadata": {
+            "runnerId": "37302"
+          }
+        },
+        {
+          "selectionId": 37303,
+          "runnerName": "No",
+          "handicap": 0,
+          "sortPriority": 2,
+          "metadata": {
+            "runnerId": "37303"
+          }
+        }
+      ],
+      "eventType": {
+        "id": "4",
+        "name": "Cricket"
+      },
+      "competition": {
+        "id": "9992899",
+        "name": "International Twenty20 Matches"
+      },
+      "event": {
+        "id": "33523191",
+        "name": "Netherlands v USA",
+        "countryCode": "GB",
+        "timezone": "GMT",
+        "openDate": "2024-08-25T14:00:00.000Z"
+      }
+    },
+    {
+      "marketId": "1.232220323",
+      "marketName": "Match Odds",
+      "marketStartTime": "2024-08-25T14:00:00.000Z",
+      "totalMatched": 39925.13,
+      "runners": [
+        {
+          "selectionId": 228749,
+          "runnerName": "Netherlands",
+          "handicap": 0,
+          "sortPriority": 1,
+          "metadata": {
+            "runnerId": "228749"
+          }
+        },
+        {
+          "selectionId": 891555,
+          "runnerName": "USA",
+          "handicap": 0,
+          "sortPriority": 2,
+          "metadata": {
+            "runnerId": "891555"
+          }
+        }
+      ],
+      "eventType": {
+        "id": "4",
+        "name": "Cricket"
+      },
+      "competition": {
+        "id": "9992899",
+        "name": "International Twenty20 Matches"
+      },
+      "event": {
+        "id": "33523191",
+        "name": "Netherlands v USA",
+        "countryCode": "GB",
+        "timezone": "GMT",
+        "openDate": "2024-08-25T14:00:00.000Z"
+      }
+    }
+  ],
+  "getFancy": [
+    {
+      "SelectionId": 1,
+      "RunnerName": "6 over runs NED(NED vs USA)adv",
+      "LayPrice1": 44,
+      "LaySize1": 100,
+      "BackPrice1": 46,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 4,
+      "RunnerName": "6 over runs USA(NED vs USA)adv",
+      "LayPrice1": 42,
+      "LaySize1": 100,
+      "BackPrice1": 44,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 19,
+      "RunnerName": "Match 1st over run(NED vs USA)adv",
+      "LayPrice1": 6,
+      "LaySize1": 100,
+      "BackPrice1": 7,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 20,
+      "RunnerName": "20 over runs NED(NED vs USA)adv",
+      "LayPrice1": 157,
+      "LaySize1": 100,
+      "BackPrice1": 160,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": "''Dutch Grand Prix Race Winner Bets Started in our Exchange''"
+    },
+    {
+      "SelectionId": 25,
+      "RunnerName": "20 over runs USA(NED vs USA)adv",
+      "LayPrice1": 147,
+      "LaySize1": 100,
+      "BackPrice1": 150,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 30,
+      "RunnerName": "Fall of 1st wkt NED(NED vs USA)adv",
+      "LayPrice1": 21,
+      "LaySize1": 120,
+      "BackPrice1": 21,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 31,
+      "RunnerName": "Fall of 1st wkt USA(NED vs USA)adv",
+      "LayPrice1": 21,
+      "LaySize1": 120,
+      "BackPrice1": 21,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 32,
+      "RunnerName": "M Levitt run(NED vs USA)adv",
+      "LayPrice1": 20,
+      "LaySize1": 120,
+      "BackPrice1": 20,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 34,
+      "RunnerName": "M O'Dowd run(NED vs USA)adv",
+      "LayPrice1": 20,
+      "LaySize1": 120,
+      "BackPrice1": 20,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 36,
+      "RunnerName": "A Gous run(NED vs USA)adv",
+      "LayPrice1": 20,
+      "LaySize1": 120,
+      "BackPrice1": 20,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 38,
+      "RunnerName": "M Patel run(NED vs USA)adv",
+      "LayPrice1": 20,
+      "LaySize1": 120,
+      "BackPrice1": 20,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 40,
+      "RunnerName": "1st wkt pship Boundaries NED(NED vs USA)adv",
+      "LayPrice1": 3,
+      "LaySize1": 100,
+      "BackPrice1": 4,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 41,
+      "RunnerName": "1st wkt pship Boundaries USA(NED vs USA)adv",
+      "LayPrice1": 3,
+      "LaySize1": 100,
+      "BackPrice1": 4,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 42,
+      "RunnerName": "M Levitt Boundaries(NED vs USA)adv",
+      "LayPrice1": 3,
+      "LaySize1": 100,
+      "BackPrice1": 4,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 43,
+      "RunnerName": "M O'Dowd Boundaries(NED vs USA)adv",
+      "LayPrice1": 3,
+      "LaySize1": 100,
+      "BackPrice1": 4,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 44,
+      "RunnerName": "A Gous Boundaries(NED vs USA)adv",
+      "LayPrice1": 3,
+      "LaySize1": 100,
+      "BackPrice1": 4,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 45,
+      "RunnerName": "M Patel Boundaries(NED vs USA)adv",
+      "LayPrice1": 3,
+      "LaySize1": 100,
+      "BackPrice1": 4,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 46,
+      "RunnerName": "1st wkt lost to NED balls(NED vs USA)adv",
+      "LayPrice1": 17,
+      "LaySize1": 120,
+      "BackPrice1": 17,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 47,
+      "RunnerName": "1st wkt lost to USA balls(NED vs USA)adv",
+      "LayPrice1": 17,
+      "LaySize1": 120,
+      "BackPrice1": 17,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 48,
+      "RunnerName": "How many balls face by M Levitt(NED vs USA)adv",
+      "LayPrice1": 16,
+      "LaySize1": 120,
+      "BackPrice1": 16,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 49,
+      "RunnerName": "How many balls face by M O'Dowd(NED vs USA)adv",
+      "LayPrice1": 16,
+      "LaySize1": 120,
+      "BackPrice1": 16,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 50,
+      "RunnerName": "How many balls face by A Gous(NED vs USA)adv",
+      "LayPrice1": 16,
+      "LaySize1": 120,
+      "BackPrice1": 16,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 51,
+      "RunnerName": "How many balls face by M Patel(NED vs USA)adv",
+      "LayPrice1": 16,
+      "LaySize1": 120,
+      "BackPrice1": 16,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 52,
+      "RunnerName": "Total Match Fours(NED vs USA)adv",
+      "LayPrice1": 23,
+      "LaySize1": 100,
+      "BackPrice1": 25,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 53,
+      "RunnerName": "Total Match Sixes(NED vs USA)adv",
+      "LayPrice1": 11,
+      "LaySize1": 100,
+      "BackPrice1": 13,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 54,
+      "RunnerName": "Total Match Boundaries(NED vs USA)adv",
+      "LayPrice1": 33,
+      "LaySize1": 100,
+      "BackPrice1": 36,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 55,
+      "RunnerName": "Total Match Wkts(NED vs USA)adv",
+      "LayPrice1": 13,
+      "LaySize1": 125,
+      "BackPrice1": 13,
+      "BackSize1": 75,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 56,
+      "RunnerName": "Total Match Wides(NED vs USA)adv",
+      "LayPrice1": 10,
+      "LaySize1": 100,
+      "BackPrice1": 12,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 57,
+      "RunnerName": "Total Match Extras(NED vs USA)adv",
+      "LayPrice1": 18,
+      "LaySize1": 100,
+      "BackPrice1": 20,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 58,
+      "RunnerName": "Total Match Caught Outs(NED vs USA)adv",
+      "LayPrice1": 8,
+      "LaySize1": 100,
+      "BackPrice1": 9,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 59,
+      "RunnerName": "Total Match Bowled(NED vs USA)adv",
+      "LayPrice1": 3,
+      "LaySize1": 140,
+      "BackPrice1": 3,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 60,
+      "RunnerName": "Total Match LBW(NED vs USA)adv",
+      "LayPrice1": 1,
+      "LaySize1": 100,
+      "BackPrice1": 2,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 61,
+      "RunnerName": "Total Match Runout(NED vs USA)adv",
+      "LayPrice1": 1,
+      "LaySize1": 100,
+      "BackPrice1": 2,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 62,
+      "RunnerName": "Total Match 30s(NED vs USA)adv",
+      "LayPrice1": 2,
+      "LaySize1": 100,
+      "BackPrice1": 3,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 63,
+      "RunnerName": "Total Match Fifties(NED vs USA)adv",
+      "LayPrice1": 1,
+      "LaySize1": 100,
+      "BackPrice1": 2,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 64,
+      "RunnerName": "Total Match Duckouts(NED vs USA)adv",
+      "LayPrice1": 1,
+      "LaySize1": 100,
+      "BackPrice1": 2,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 65,
+      "RunnerName": "Total Match Single Digit Scorers(NED vs USA)adv",
+      "LayPrice1": 6,
+      "LaySize1": 100,
+      "BackPrice1": 7,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 66,
+      "RunnerName": "Total Match Double Digit Scorers(NED vs USA)adv",
+      "LayPrice1": 8,
+      "LaySize1": 100,
+      "BackPrice1": 9,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 67,
+      "RunnerName": "Highest Scoring over Runs in Match(NED vs USA)adv",
+      "LayPrice1": 18,
+      "LaySize1": 100,
+      "BackPrice1": 19,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 68,
+      "RunnerName": "Top batsman runs in Match(NED vs USA)adv",
+      "LayPrice1": 60,
+      "LaySize1": 110,
+      "BackPrice1": 60,
+      "BackSize1": 90,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 69,
+      "RunnerName": "Most Balls Faced By a Batsman(NED vs USA)adv",
+      "LayPrice1": 41,
+      "LaySize1": 125,
+      "BackPrice1": 41,
+      "BackSize1": 75,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 70,
+      "RunnerName": "Most Runs Given by a Bowler(NED vs USA)adv",
+      "LayPrice1": 40,
+      "LaySize1": 100,
+      "BackPrice1": 43,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    },
+    {
+      "SelectionId": 71,
+      "RunnerName": "Most Wickets By a Bowler(NED vs USA)adv",
+      "LayPrice1": 3,
+      "LaySize1": 100,
+      "BackPrice1": 4,
+      "BackSize1": 100,
+      "GameStatus": "",
+      "MarkStatus": ""
+    }
+  ],
+  "getOddsList": [
+    {
+      "marketId": "1.232220323",
+      "updateTime": "2024-08-25T12:50:02.900631+02:00",
+      "status": "OPEN",
+      "inplay": false,
+      "totalMatched": 40234.19,
+      "runners": [
+        {
+          "selectionId": 228749,
+          "handicap": 0,
+          "status": "ACTIVE",
+          "lastPriceTraded": 1.68,
+          "totalMatched": 39167.76,
+          "adjustmentFactor": 0,
+          "ex": {
+            "availableToBack": [
+              {
+                "price": 1.7,
+                "size": 270.67
+              },
+              {
+                "price": 1.69,
+                "size": 5.78
+              },
+              {
+                "price": 1.68,
+                "size": 26.56
+              }
+            ],
+            "availableToLay": [
+              {
+                "price": 1.71,
+                "size": 20.75
+              },
+              {
+                "price": 1.72,
+                "size": 21.8
+              },
+              {
+                "price": 1.73,
+                "size": 98.46
+              }
+            ]
+          }
+        },
+        {
+          "selectionId": 891555,
+          "handicap": 0,
+          "status": "ACTIVE",
+          "lastPriceTraded": 2.4,
+          "totalMatched": 1066.43,
+          "adjustmentFactor": 0,
+          "ex": {
+            "availableToBack": [
+              {
+                "price": 2.4,
+                "size": 18.78
+              },
+              {
+                "price": 2.38,
+                "size": 11.72
+              },
+              {
+                "price": 2.36,
+                "size": 102.83
+              }
+            ],
+            "availableToLay": [
+              {
+                "price": 2.44,
+                "size": 192.58
+              },
+              {
+                "price": 2.48,
+                "size": 21.99
+              },
+              {
+                "price": 2.5,
+                "size": 1.27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

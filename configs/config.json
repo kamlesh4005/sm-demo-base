@@ -1,0 +1,19 @@
+{
+    "server": {
+        "port": 3010
+    },
+    "message": {
+        "ipMessage": "Your ip (***.****.****.****) is not whitelisted Please contact (+*************) on this no for more enquiry and ip your whitelist "
+    },
+    "application": {
+        "startHours": "10:00",
+        "endHours": "20:00",
+        "duration": 30,
+        "timezone": "Asia/Calcutta"
+    },
+    "redis": {
+        "host": "redis-11780.c245.us-east-1-3.ec2.redns.redis-cloud.com",
+        "port": "11780",
+        "password": "018PygAmDeFi28V6Tw0ph3QF4mYcMZUU"
+    }
+}
